@@ -14,7 +14,7 @@ UCSD-Edx Python for Data Science MicroMasters Project
 3. Are there more right foot players than left foot players? Does this affect the result of question 2?
 
 
-## Prequisites
+## Requirements
 Jupyter Notebook may be used with any OS. 
 Ensure you have pip installed the latest versions of the following:
 * Pandas
